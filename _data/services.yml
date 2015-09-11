@@ -1,16 +1,13 @@
-- menu_name: "Services"
+- menu_name: "服务"
 
-- name: "Contact"
+- name: "联系我"
   url: "/contact/"
   title: "Contact"
 
 - name: "RSS"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "订阅RSS"
 
-- name: "Atom"
-  url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"

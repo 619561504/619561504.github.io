@@ -8,26 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "腾讯助力深圳反信息诈骗行动 警企合作抓捕81人"
-  url: 'http://m.qq.com/security_lab/news_detail_329.html'
-  image: http://mmgr.gtimg.com/gjsmall/xhw/0c20b173-2edf-4f6c-91b4-a23d36f73fd1.png
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Font diao：国内常用网站、应用logo 的WebFont Icon（svg格式）"
+  url: 'http://devework.com/font-diao.html'
+  image: fontdiao.png
+  text: '最近在做的一个手机主题决定是要全站图标采用流行的Web Font，毕竟在手机等移动设备上显示起来清晰（矢量放缩的好处）。但遇到一个问题：需要的国内社交网络相应的素材几乎找不到。在这一点上，国外的社交媒体有一大堆WebFont Icon，还好，最终我找到了这个Font diao。'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "六七月读书记录：凯文凯利想说什么"
+  url: 'http://devework.com/reading-at-june-july.html'
+  image: kelly_article.jpg
+  text: '因各种原因拖欠了两个月的读书笔记，现在一齐补上。六七月的读书较以往少了点，有些懈怠了。看看隔壁的小扎，人家都读到第15 本了。'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Mac OS X巧用AppleScript 制作网络位置切换自动化脚本（自动配置PAC 文件）"
+  url: 'http://devework.com/automatic-proxy-configuration-pac-applescript.html'
+  image: applescript.png
+  text: '事情是这样的，自带的Macbook Air 在实习单位入的是办公网，办公网走自动代理（需要配置PAC 文件）。同时回来宿舍或家里需要民用的宽带网络。切换的时候出现了问题。'
 permalink: /index.html
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

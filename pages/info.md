@@ -1,50 +1,30 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "自我介绍"
+subheadline: "一只想高飞的程序猿"
+teaser: 
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+当目光挣扎着收容了闪电而无惊悸  
+天空 却巧妙地躲过了穷人的眼  
+我偷偷地避开了算命先生的预言  
+来设计与你的后会无期  
+你扬鞭策马，跃过浮尘  
+把千年铸就和一世英名都用在刀刃上
 
+轮回之日便从指间一直延伸到刀峰  
+我住在骨灰与泥土最亲密的空隙里  
+放下千山万水，观棋不语  
+我平静地穿过前尘往事  
+任你城池兵马，气贯长虹  
+看，那是谁在野鹤闲云  
+请设置好花开的瞬间  
+让我夺路而逃  
+逃向迢迢千里  
+而迈出的每一步都留下半亩脚印  
+暗示着来世有无数个祭日  
+让你美得一错在错  
 
-## Features
-
-* Responsive Gallery, Videos, Grid, Typography,...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #

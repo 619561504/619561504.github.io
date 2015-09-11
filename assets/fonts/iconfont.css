@@ -76,6 +76,7 @@
 .icon-vimeo:before,
 .icon-warning:before,
 .icon-xing:before,
+.icon-weibo:before,
 .icon-youtube:before {
   display: inline-block;
   font-family: "iconfont";
@@ -145,3 +146,4 @@
 .icon-warning:before { content: "\f131"; }
 .icon-xing:before { content: "\f135"; }
 .icon-youtube:before { content: "\f132"; }
+.icon-weibo:before {content: "\f136";}

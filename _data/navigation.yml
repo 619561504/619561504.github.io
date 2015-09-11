@@ -2,12 +2,12 @@
   url: "/"
   side: left
 
-- title: 随笔
-  url: "/psy/"
+- title: 博文
+  url: "/blog/"
   side: left
 
-- title: 技术
-  url: "/blog/"
+- title: 随笔
+  url: "/psy/"
   side: left
 
 - title: "痕迹"
