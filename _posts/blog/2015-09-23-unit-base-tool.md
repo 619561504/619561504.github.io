@@ -14,6 +14,8 @@ tags:
 [grep命令详解]('http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2856896.html')：是一种强大的文本搜索工具，它能使用正则表达式搜索文本，并把匹配的行打印出来。
 
 [sort,uniq,cut,wc命令详解]('http://www.cnblogs.com/ggjucheng/archive/2013/01/13/2858385.html')  
+
 > sort：sort 命令对 File 参数指定的文件中的行排序，并将结果写到标准输出。如果 File 参数指定多个文件，那么 sort 命令将这些文件连接起来，并当作一个文件进行排序。
 
 > uniq：uniq命令可以去除排序过的文件中的重复行，因此uniq经常和sort合用。也就是说，为了使uniq起作用，所有的重复行必须是相邻的。
+
