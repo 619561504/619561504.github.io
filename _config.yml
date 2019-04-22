@@ -7,13 +7,13 @@ title: 天之翼
 subtitle:
 description:
 keywords:
-author: tyWu
+author: tyw
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://619561504.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,7 +78,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/619561504/619561504.github.io
+  branch: master
+  message: blog
 
 plugin: hexo-generate-feed
 
